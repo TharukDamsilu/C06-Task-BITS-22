@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap');
+
+*{
+    margin: 0px;
+}
+body{
+    background-image: url("img/wallpaperflare.com_wallpaper.jpg");
+    background-size: cover;
+}
+.text-1{
+    padding-top: 65vh;
+    position: relative;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 7vh;
+    color: aquamarine;
+    text-shadow: 0 0 40px aqua;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px;
+}
